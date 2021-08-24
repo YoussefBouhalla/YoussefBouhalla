@@ -1,5 +1,5 @@
 <video width="320" height="240" controls>
-  <source src="niko.mp4" type="video/mp4">
+  <source src="pixel-art-gif.mp4" type="video/mp4">
 </video>
 
 ---
@@ -15,8 +15,6 @@
 ---
 
 ### Github stats:
-
-<a href="https://github.com/YoussefBouhalla"><img src="https://img.shields.io/github/followers/YoussefBouhalla?label=Follow&style=social"></a>
 
 <a href="https://github.com/YoussefBouhalla?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=dark"/>
