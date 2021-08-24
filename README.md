@@ -6,7 +6,7 @@
 ---
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Youssef 
 
-## I'm a Student, Developer, and CSS and pixel arts lover ❤!!
+## I'm a Student, Developer,I love Pixel Arts and CSS ❤!!
 
 - 🔭 I’m currently in an internship to improve my skills
 - 🌱 I’m currently learning React js
