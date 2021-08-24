@@ -1,6 +1,7 @@
-<video width="320" height="240" controls>
-  <source src="pixel-art-gif.gif" type="video/mp4">
-</video>
+
+<p align="center"> 
+    <img src="https://raw.githubusercontent.comYoussefBouhalla/YoussefBouhalla/main/pixel-art-gif.gif">
+</p>
 
 ---
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Youssef 
