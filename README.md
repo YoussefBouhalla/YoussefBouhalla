@@ -1,6 +1,6 @@
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.comYoussefBouhalla/YoussefBouhalla/master/pixel-art-gif.gif">
+    <img src="https://raw.githubusercontent.com/YoussefBouhalla/YoussefBouhalla/main/pixel-art-gif.gif">
 </p>
 
 ---
