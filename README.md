@@ -1,5 +1,5 @@
 <video width="320" height="240" controls>
-  <source src="pixel-art-gif.mp4" type="video/mp4">
+  <source src="pixel-art-gif.gif" type="video/mp4">
 </video>
 
 ---
