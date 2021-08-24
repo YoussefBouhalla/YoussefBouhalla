@@ -1,25 +1,17 @@
-### Hi there, I'm Youssef 👋
+<video width="320" height="240" controls>
+  <source src="niko.mp4" type="video/mp4">
+</video>
 
-## I'm a Student, Developer, and CSS lover ❤!!
+---
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Youssef 
 
-- 🔭 I’m currently working on a freelance project
-- 🌱 I’m currently learning Vue.js
+## I'm a Student, Developer, and CSS and pixel arts lover ❤!!
+
+- 🔭 I’m currently in an internship to improve my skills
+- 🌱 I’m currently learning React js
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: start freelancing and improve myself more and more
+- 🥅 2021 Goals: start freelancing and learn MongoDB,Express,React and Nodejs (MERN)
 - ⚡ Fun fact: I love to share arts especially pixel arts
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31padjfhsdrcfpcpzichwslhuryy?si=93643ba34b5b4036)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.facebook.com/profile.php?id=100013575014881)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-bouhalla-745b1b213/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ussef_bhl/)
-
-<br />
-
 ---
 
 ### Github stats:
