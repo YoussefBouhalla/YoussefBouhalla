@@ -16,6 +16,7 @@
 ---
 
 ### Github stats:
+<center>
 <a href="https://github.com/YoussefBouhalla?tab=repositories" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=dark"/>
 </a>
@@ -23,3 +24,4 @@
 <a href="https://github.com/YoussefBouhalla?tab=repositories" align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&line_height=40&show_icons=true&theme=dark">
 </a>
+</center>
