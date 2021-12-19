@@ -8,20 +8,8 @@
 
 ## I'm a Student and a Developer, I love Pixel Arts and CSS ❤!!
 
-- 🔭 I’m currently in an internship to improve my skills
-- 🌱 I’m currently learning React js
-- 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: start freelancing and learn MongoDB,Express,React and Nodejs (MERN)
-- ⚡ Fun fact: I love to share arts especially pixel arts
----
-
-### Github stats:
-<center>
-<a href="https://github.com/YoussefBouhalla?tab=repositories" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=dark"/>
-</a>
-
-<a href="https://github.com/YoussefBouhalla?tab=repositories" align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&line_height=40&show_icons=true&theme=dark">
-</a>
-</center>
+- 🔭 I’m currently a Student at YouCode.
+- 🌱 I’m currently learning NodeJS.
+- 👯 I’m looking to collaborate with others.
+- 🥅 2021 Goals: start freelancing and learn MongoDB,Express,React and Nodejs (MERN).
+- ⚡ Fun fact: I love to share arts especially pixel arts.
