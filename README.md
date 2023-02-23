@@ -35,10 +35,7 @@ Also known as BHL, I'm a self-taught FullStack JavaScript Developer who's passio
 
 ### 📊 Stats
 
-    ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&show_icons=true&theme=gruvbox)
-    
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&show_icons=true&theme=gruvbox) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #
 
