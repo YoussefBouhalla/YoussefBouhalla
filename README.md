@@ -8,9 +8,13 @@
 ### I'm Youssef BOUHALLA.
 
 From curiosity to code: I'm Youssef BOUHALLA (BHL), a passionate self-taught FullStack JavaScript Developer. My journey began at 18 with a simple question: "How does the web work behind the scenes?"
+
 That curiosity sparked a four-year adventure of continuous learning and growth. Through countless challenges and late-night debugging sessions, I've transformed from a curious teenager into a dedicated developer who believes in the power of determination.
+
 What I've learned along the way is simple yet powerful: Every obstacle is an opportunity to grow, and with enough persistence, anything is possible. The struggles I faced early on became the building blocks of my expertise.
+
 Today, I craft web solutions with JavaScript, but my real passion lies in pushing the boundaries of what's possible and helping others discover their potential in tech.
+
 Remember: Stay determined, embrace the challenges, and keep coding. The only limit is your determination. ♡
 
 ---
