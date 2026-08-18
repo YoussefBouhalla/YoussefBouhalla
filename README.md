@@ -14,9 +14,8 @@ Currently available for new projects.
 
 ## Links
 
-- **GitHub:** [github.com/YoussefBouhalla](https://github.com/YoussefBouhalla)
-- **LinkedIn:** [linkedin.com/in/youssef-bouhalla-745b1b213](https://www.linkedin.com/in/youssef-bouhalla-745b1b213)
-- **Email:** [yo.bouhalla@gmail.com](mailto:yo.bouhalla@gmail.com)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [linkedin.com/in/youssef-bouhalla-745b1b213](https://www.linkedin.com/in/youssef-bouhalla-745b1b213)
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) [yo.bouhalla@gmail.com](mailto:yo.bouhalla@gmail.com)
 
 ---
 
