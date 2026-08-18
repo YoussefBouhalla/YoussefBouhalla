@@ -4,33 +4,23 @@
 </p>
 
 ---
-## 👤 Ah Thou... Greeting!
-### I'm Youssef BOUHALLA.
+# Hi, I'm Youssef Bouhalla
 
-From curiosity to code: I'm Youssef BOUHALLA (BHL), a passionate self-taught FullStack JavaScript Developer. My journey began at 18 with a simple question: "How does the web work behind the scenes?"
+Full-stack JavaScript and TypeScript developer. I build web applications, APIs, desktop tools, and mobile apps, from first commit to a deployed, maintainable release.
 
-That curiosity sparked a four-year adventure of continuous learning and growth. Through countless challenges and late-night debugging sessions, I've transformed from a curious teenager into a dedicated developer who believes in the power of determination.
+Currently available for new projects.
 
-What I've learned along the way is simple yet powerful: Every obstacle is an opportunity to grow, and with enough persistence, anything is possible. The struggles I faced early on became the building blocks of my expertise.
+---
 
-Today, I craft web solutions with JavaScript, but my real passion lies in pushing the boundaries of what's possible and helping others discover their potential in tech.
+## Links
 
-Remember: Stay determined, embrace the challenges, and keep coding. The only limit is your determination. ♡
+- **GitHub:** [github.com/YoussefBouhalla](https://github.com/YoussefBouhalla)
+- **LinkedIn:** [linkedin.com/in/youssef-bouhalla-745b1b213](https://www.linkedin.com/in/youssef-bouhalla-745b1b213)
+- **Email:** [yo.bouhalla@gmail.com](mailto:yo.bouhalla@gmail.com)
 
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,linux,html,css,sass,bootstrap,js,ts,vue,react,redux,nodejs,mysql,mongodb,php,github,gitlab)](https://skillicons.dev)
-
-
----
-
-### 📊 Stats
-<div>
-
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&show_icons=true&theme=gruvbox)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhalla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,nextjs,react,redux,figma,nodejs,express,supabase,prisma,postgres,mysql,mongodb,redis,electron,php,webpack,pnpm,npm,vite,vercel,github,gitlab,git,docker,linux)](https://skillicons.dev)
 
 
