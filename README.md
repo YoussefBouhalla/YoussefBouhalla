@@ -12,7 +12,7 @@ Currently available for new projects.
 
 ---
 
-## Links
+### Links
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/506136510102503455)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yo.bouhalla@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/youssef-bouhalla-745b1b213)
